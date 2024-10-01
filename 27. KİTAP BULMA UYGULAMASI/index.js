@@ -141,7 +141,7 @@ let rafKodu = kodBul(kitapAdi);
 
 if (rafKodu != null) {
     raftaGoster(rafKodu);
-    rafOlustur();
+    rafOlustur(); // raflar true olmadan önce atandığı için güncel boolean değeri göremedi. True oldugunu algılayabilmesi icin rafOlustur function'umuzu tekrar çağırdık. 
 } else {
     alert("Maalesef aradığınız kitap kütüphanemizde bulunamamaktadır.");
 }
