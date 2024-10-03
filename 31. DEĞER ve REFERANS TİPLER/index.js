@@ -1,10 +1,10 @@
 /* 
 
-! DEĞER ve REFERANS TİPLER
+! DEĞER ve REFERANS TİPLER (Primitives vs. Reference Types)
 
 https://duygutemur.medium.com/javascript-primitif-ve-referans-tipleri-primitives-vs-reference-types-3b043f2845d0
 
-? DEĞER TİPİ - İLKEL (PRİMİTİVE) VERİ TÜRLERİ 
+? DEĞER TİPİ - İLKEL (PRİMİTİF) VERİ TÜRLERİ 
 -String
 -Number
 -Boolean
