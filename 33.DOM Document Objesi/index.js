@@ -2,6 +2,8 @@
 
 // * JavaScript'te document objesi, web sayfasındaki içeriğe ve yapıya erişmek için kullanılan bir nesnedir. Bu nesne, Document Object Model (DOM) aracılığıyla HTML belgesini temsil eder ve sayfa üzerinde etkileşimde bulunmanıza, elemanları manipüle etmenize ve dinamik içerik oluşturmanıza olanak tanır.
 
+// https://www.w3schools.com/jsref/dom_obj_document.asp
+
 console.log(window);
 
 console.log(document.location);
